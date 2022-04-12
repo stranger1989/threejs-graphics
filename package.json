@@ -13,7 +13,6 @@
   "devDependencies": {
     "@types/three": "^0.137.0",
     "html-webpack-plugin": "^5.5.0",
-    "three": "^0.138.0",
     "ts-loader": "^9.2.6",
     "typescript": "^4.5.5",
     "webpack": "^5.69.1",
@@ -22,6 +21,7 @@
     "webpack-glsl-loader": "^1.0.1"
   },
   "dependencies": {
-    "postprocessing": "^6.24.1"
+    "postprocessing": "^6.24.1",
+    "three": "^0.139.2"
   }
 }
